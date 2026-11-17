@@ -1,8 +1,8 @@
 ## Interface: 16001
 ## Title: GuildSweep
 ## Notes: Deposits a chosen amount of your money into the guild bank when you open it. Opt-in, capped, once-per-day limits.
-## Author: Matt
-## Version: 0.1.6
+## Author: RavenBlight
+## Version: 0.1.7
 ## SavedVariables: GuildSweepDB
 
 GuildSweep.lua
