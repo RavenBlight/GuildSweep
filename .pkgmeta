@@ -1,0 +1,6 @@
+package-as: GuildSweep
+
+ignore:
+  - README.md
+  - .gitignore
+  - .github
